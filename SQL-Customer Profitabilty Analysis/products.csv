@@ -1,0 +1,51 @@
+product_id,product_name,category,unit_cost,unit_price,launch_date
+PROD0001,Accessorie Model 201,Accessories,560.04,1066.4,2023-09-30
+PROD0002,Chemical Model 517,Chemicals,251.07,582.66,2022-07-27
+PROD0003,Supplie Model 806,Supplies,549.36,738.3,2023-01-29
+PROD0004,Part Model 554,Parts,729.19,1701.79,2023-06-30
+PROD0005,Part Model 975,Parts,760.09,1663.52,2023-01-13
+PROD0006,Supplie Model 802,Supplies,492.67,851.02,2023-01-23
+PROD0007,Chemical Model 760,Chemicals,746.52,1790.97,2023-01-05
+PROD0008,Supplie Model 507,Supplies,40.95,46.66,2022-07-20
+PROD0009,Part Model 225,Parts,304.29,704.68,2023-07-21
+PROD0010,Supplie Model 778,Supplies,789.88,1047.08,2022-03-11
+PROD0011,Accessorie Model 754,Accessories,477.33,797.78,2024-05-07
+PROD0012,Supplie Model 151,Supplies,776.08,1834.02,2022-11-15
+PROD0013,Part Model 228,Parts,671.47,1210.69,2024-03-02
+PROD0014,Part Model 170,Parts,334.78,505.55,2025-04-17
+PROD0015,Chemical Model 312,Chemicals,49.82,119.42,2024-04-15
+PROD0016,Part Model 932,Parts,651.26,1693.0,2022-04-23
+PROD0017,Equipment Model 892,Equipment,797.33,1541.36,2021-10-30
+PROD0018,Chemical Model 102,Chemicals,616.34,1551.42,2022-07-22
+PROD0019,Part Model 233,Parts,680.47,1000.99,2024-01-12
+PROD0020,Equipment Model 917,Equipment,363.18,469.86,2021-12-24
+PROD0021,Supplie Model 776,Supplies,763.47,1534.01,2021-02-22
+PROD0022,Part Model 115,Parts,186.77,393.63,2023-01-04
+PROD0023,Part Model 702,Parts,496.41,812.74,2022-10-26
+PROD0024,Supplie Model 278,Supplies,95.28,200.79,2022-06-28
+PROD0025,Supplie Model 229,Supplies,418.64,945.49,2025-02-28
+PROD0026,Safety Gear Model 638,Safety Gear,418.53,995.38,2021-08-21
+PROD0027,Accessorie Model 165,Accessories,443.77,861.54,2023-09-03
+PROD0028,Safety Gear Model 896,Safety Gear,701.94,1196.97,2023-01-12
+PROD0029,Chemical Model 707,Chemicals,111.54,127.51,2021-08-12
+PROD0030,Safety Gear Model 615,Safety Gear,605.33,1229.1,2022-03-30
+PROD0031,Chemical Model 144,Chemicals,564.74,801.62,2025-01-29
+PROD0032,Accessorie Model 633,Accessories,113.42,127.24,2022-09-10
+PROD0033,Safety Gear Model 758,Safety Gear,283.72,563.15,2021-03-05
+PROD0034,Supplie Model 590,Supplies,316.83,556.42,2023-04-03
+PROD0035,Safety Gear Model 802,Safety Gear,723.81,1174.3,2021-08-10
+PROD0036,Safety Gear Model 829,Safety Gear,413.62,941.18,2023-06-28
+PROD0037,Supplie Model 182,Supplies,320.25,651.11,2022-10-22
+PROD0038,Chemical Model 251,Chemicals,690.58,1743.22,2021-05-15
+PROD0039,Part Model 381,Parts,121.92,303.57,2024-07-02
+PROD0040,Accessorie Model 699,Accessories,396.23,589.34,2024-01-29
+PROD0041,Accessorie Model 432,Accessories,370.01,950.94,2023-02-20
+PROD0042,Chemical Model 643,Chemicals,396.63,631.88,2022-08-27
+PROD0043,Safety Gear Model 617,Safety Gear,508.55,742.59,2024-05-24
+PROD0044,Safety Gear Model 201,Safety Gear,65.31,84.47,2024-12-08
+PROD0045,Supplie Model 973,Supplies,106.8,141.81,2024-09-02
+PROD0046,Accessorie Model 998,Accessories,115.37,237.81,2025-04-24
+PROD0047,Chemical Model 838,Chemicals,149.59,242.11,2022-03-17
+PROD0048,Safety Gear Model 562,Safety Gear,717.95,1300.17,2022-04-13
+PROD0049,Safety Gear Model 447,Safety Gear,535.71,727.75,2023-07-18
+PROD0050,Safety Gear Model 525,Safety Gear,157.87,183.33,2025-02-03

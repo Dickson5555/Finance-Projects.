@@ -1,0 +1,201 @@
+customer_id,customer_name,region,acquisition_channel,acquisition_date,cac_usd,loyalty_status,industry
+CUST0001,Akua Mensah,Eastern,Referral,2022-04-03,336,Silver,Construction
+CUST0002,Akua Boateng,Bono,Direct Sales,2021-03-07,520,Silver,Retail
+CUST0003,Ama Agyapong,Central,Email Campaign,2024-05-17,63,Bronze,Retail
+CUST0004,Rebecca Agyapong,Upper West,Direct Sales,2022-03-28,156,None,Hospitality
+CUST0005,Paul Mensimah,Greater Accra,Partner,2021-11-23,165,None,Healthcare
+CUST0006,Henry Mensimah,Western,Referral,2022-11-21,177,Silver,Manufacturing
+CUST0007,Ama Adjei,Ashanti,Trade Show,2022-12-06,157,Bronze,Agriculture
+CUST0008,Kofi Asante,Upper West,Online Ads,2023-02-15,146,Silver,Manufacturing
+CUST0009,Rebecca Nyarko,Bono,Partner,2023-01-11,72,Gold,Mining
+CUST0010,Ama Owusu,Central,Partner,2022-08-16,95,Bronze,Manufacturing
+CUST0011,Esi Antiri,Volta,Trade Show,2023-07-18,314,Silver,Logistics
+CUST0012,Adwoa Quaye,Northern,Referral,2024-10-04,104,Gold,Agriculture
+CUST0013,Ama Ofori,Upper West,Organic Search,2022-05-17,80,Bronze,Construction
+CUST0014,David Adjei,Eastern,Organic Search,2024-11-10,59,None,Mining
+CUST0015,Henry Owusu,Central,Partner,2021-03-07,48,Gold,Logistics
+CUST0016,Linda Mensimah,Ashanti,Referral,2024-03-07,54,Bronze,Logistics
+CUST0017,Kojo Acheampong,Volta,Organic Search,2023-07-29,313,None,Construction
+CUST0018,Michael Badu,Central,Organic Search,2024-02-24,87,Silver,Agriculture
+CUST0019,Paul Kumi,Bono,Direct Sales,2023-01-12,551,Bronze,Mining
+CUST0020,Yaw Acheampong,Ashanti,Partner,2021-04-07,204,Silver,Manufacturing
+CUST0021,Yaw Ofori,Volta,Email Campaign,2021-05-11,341,Bronze,Healthcare
+CUST0022,Linda Asante,Upper West,Trade Show,2024-02-08,58,Bronze,Retail
+CUST0023,Akua Mensimah,Northern,Online Ads,2022-08-25,465,Bronze,Healthcare
+CUST0024,Adwoa Asante,Greater Accra,Organic Search,2022-06-24,82,Silver,Construction
+CUST0025,Linda Antiri,Eastern,Partner,2024-08-01,549,Bronze,Mining
+CUST0026,Yaw Quaye,Western,Email Campaign,2023-12-23,471,Silver,Retail
+CUST0027,Daniel Osei,Upper East,Online Ads,2021-08-18,91,Silver,Logistics
+CUST0028,John Appiah,Greater Accra,Referral,2024-03-07,124,None,Manufacturing
+CUST0029,Ama Acheampong,Ashanti,Partner,2023-12-27,479,Silver,Construction
+CUST0030,Yaw Acheampong,Upper West,Referral,2022-06-27,338,None,Healthcare
+CUST0031,Kojo Agyapong,Eastern,Direct Sales,2024-10-07,84,Bronze,Logistics
+CUST0032,David Asante,Ashanti,Referral,2022-04-06,47,Gold,Manufacturing
+CUST0033,Henry Mensah,Bono,Email Campaign,2022-04-17,342,Bronze,Mining
+CUST0034,Kwame Boateng,Greater Accra,Referral,2021-05-19,25,Silver,Retail
+CUST0035,Henry Boateng,Upper West,Referral,2022-07-25,533,Bronze,Hospitality
+CUST0036,Kojo Badu,Bono,Email Campaign,2023-08-27,231,Bronze,Mining
+CUST0037,Joseph Kumi,Central,Online Ads,2021-07-18,178,None,Healthcare
+CUST0038,Grace Kumi,Volta,Direct Sales,2021-04-21,154,None,Manufacturing
+CUST0039,Kofi Adjei,Northern,Partner,2021-08-12,245,None,Mining
+CUST0040,Kojo Agyapong,Upper West,Direct Sales,2021-10-15,41,Gold,Healthcare
+CUST0041,Adwoa Mensimah,Upper East,Referral,2021-06-04,347,Bronze,Hospitality
+CUST0042,Rebecca Antiri,Greater Accra,Organic Search,2024-01-13,151,None,Retail
+CUST0043,Ama Appiah,Western,Direct Sales,2023-09-22,313,Bronze,Hospitality
+CUST0044,Kojo Adjei,Greater Accra,Referral,2023-02-16,134,Gold,Retail
+CUST0045,Linda Mensimah,Upper East,Trade Show,2023-05-17,81,None,Hospitality
+CUST0046,Yaw Agyapong,Eastern,Referral,2021-04-30,56,Bronze,Retail
+CUST0047,Henry Owusu,Greater Accra,Email Campaign,2023-09-04,197,Silver,Construction
+CUST0048,Kofi Boateng,Western,Online Ads,2024-05-03,116,Bronze,Manufacturing
+CUST0049,Esi Adjei,Ashanti,Email Campaign,2022-05-20,42,Silver,Retail
+CUST0050,Daniel Boateng,Volta,Organic Search,2024-04-10,169,Silver,Logistics
+CUST0051,Michael Agyapong,Northern,Referral,2022-06-28,160,Silver,Healthcare
+CUST0052,Yaw Nyarko,Upper East,Trade Show,2021-05-29,60,Bronze,Retail
+CUST0053,David Antiri,Ashanti,Email Campaign,2022-03-13,30,Bronze,Agriculture
+CUST0054,Yaw Quaye,Ashanti,Referral,2023-01-27,47,None,Agriculture
+CUST0055,Adwoa Asante,Upper West,Organic Search,2022-09-12,178,Bronze,Retail
+CUST0056,Rebecca Nyarko,Ashanti,Referral,2022-06-26,95,None,Manufacturing
+CUST0057,Akua Badu,Eastern,Trade Show,2024-05-23,90,Bronze,Mining
+CUST0058,Henry Agyapong,Eastern,Email Campaign,2023-09-28,69,Silver,Agriculture
+CUST0059,Kofi Boateng,Volta,Partner,2022-07-21,27,None,Retail
+CUST0060,Kwame Osei,Western,Organic Search,2022-06-21,82,Silver,Construction
+CUST0061,David Kumi,Upper West,Online Ads,2021-08-18,32,Bronze,Manufacturing
+CUST0062,Yaw Owusu,Northern,Email Campaign,2024-02-06,149,None,Construction
+CUST0063,Sarah Badu,Greater Accra,Trade Show,2023-01-17,519,Gold,Retail
+CUST0064,Grace Agyapong,Central,Organic Search,2021-07-30,448,None,Logistics
+CUST0065,Rebecca Kumi,Bono,Organic Search,2021-11-13,494,None,Mining
+CUST0066,Adwoa Ofori,Volta,Online Ads,2022-01-03,203,Gold,Logistics
+CUST0067,Sarah Appiah,Eastern,Referral,2024-12-07,26,Bronze,Manufacturing
+CUST0068,Linda Owusu,Upper East,Referral,2022-02-13,408,Bronze,Hospitality
+CUST0069,Grace Nyarko,Central,Referral,2021-02-18,67,None,Mining
+CUST0070,Linda Osei,Eastern,Partner,2021-05-23,267,Bronze,Agriculture
+CUST0071,Grace Adjei,Upper West,Trade Show,2021-02-26,118,Silver,Manufacturing
+CUST0072,Michael Ofori,Bono,Trade Show,2021-03-20,352,Silver,Manufacturing
+CUST0073,Daniel Kumi,Northern,Organic Search,2022-10-05,109,Silver,Healthcare
+CUST0074,Daniel Antiri,Volta,Email Campaign,2022-01-25,345,Silver,Agriculture
+CUST0075,Kofi Kumi,Greater Accra,Email Campaign,2024-01-08,87,None,Mining
+CUST0076,Grace Kumi,Ashanti,Organic Search,2022-11-08,101,Silver,Logistics
+CUST0077,Akua Nyarko,Upper West,Trade Show,2024-09-27,593,Bronze,Healthcare
+CUST0078,Henry Adjei,Eastern,Email Campaign,2021-09-18,527,Silver,Mining
+CUST0079,Sarah Adjei,Western,Email Campaign,2024-03-11,81,None,Agriculture
+CUST0080,Linda Mensah,Eastern,Trade Show,2022-03-07,115,None,Healthcare
+CUST0081,Paul Osei,Upper East,Direct Sales,2023-06-25,570,None,Mining
+CUST0082,Linda Acheampong,Western,Organic Search,2021-06-23,116,Bronze,Agriculture
+CUST0083,Linda Osei,Ashanti,Partner,2022-04-27,71,None,Agriculture
+CUST0084,Esi Agyapong,Western,Online Ads,2021-04-05,24,Silver,Mining
+CUST0085,Joseph Boateng,Upper East,Direct Sales,2024-07-13,50,Bronze,Mining
+CUST0086,Linda Acheampong,Volta,Referral,2021-10-30,133,None,Retail
+CUST0087,Akua Kumi,Central,Referral,2024-11-26,30,Silver,Hospitality
+CUST0088,Kofi Appiah,Ashanti,Direct Sales,2021-10-01,530,None,Hospitality
+CUST0089,Linda Osei,Upper East,Email Campaign,2023-10-31,28,Bronze,Healthcare
+CUST0090,Rebecca Asante,Western,Organic Search,2023-08-31,71,Silver,Hospitality
+CUST0091,Michael Appiah,Eastern,Partner,2023-12-04,207,None,Hospitality
+CUST0092,Esi Mensimah,Upper East,Online Ads,2022-08-09,87,Bronze,Mining
+CUST0093,Michael Osei,Northern,Email Campaign,2021-06-15,47,Bronze,Construction
+CUST0094,Yaw Appiah,Volta,Organic Search,2021-11-09,299,Silver,Mining
+CUST0095,Ama Kumi,Volta,Trade Show,2024-01-17,150,Bronze,Hospitality
+CUST0096,Sarah Owusu,Central,Partner,2023-05-11,529,Silver,Healthcare
+CUST0097,Paul Mensah,Bono,Direct Sales,2023-09-04,99,Silver,Retail
+CUST0098,Grace Nyarko,Volta,Partner,2023-05-09,190,Gold,Mining
+CUST0099,Joseph Appiah,Eastern,Direct Sales,2023-09-22,466,Bronze,Retail
+CUST0100,Linda Osei,Volta,Organic Search,2021-12-05,356,None,Hospitality
+CUST0101,Yaw Mensah,Volta,Email Campaign,2024-03-01,277,Silver,Retail
+CUST0102,Ama Kumi,Western,Partner,2023-08-04,28,Silver,Construction
+CUST0103,Kofi Mensimah,Volta,Trade Show,2022-03-10,29,None,Hospitality
+CUST0104,Henry Osei,Volta,Trade Show,2023-05-14,77,Gold,Agriculture
+CUST0105,Ama Acheampong,Greater Accra,Organic Search,2024-01-10,534,Silver,Retail
+CUST0106,Grace Appiah,Ashanti,Partner,2024-08-27,302,None,Retail
+CUST0107,Kwame Appiah,Central,Partner,2021-02-11,34,Silver,Construction
+CUST0108,Esi Badu,Upper East,Organic Search,2021-08-23,189,Silver,Mining
+CUST0109,David Mensimah,Northern,Referral,2024-05-25,290,Silver,Manufacturing
+CUST0110,Adwoa Nyarko,Ashanti,Email Campaign,2021-02-22,583,Bronze,Agriculture
+CUST0111,Paul Adjei,Volta,Organic Search,2022-02-11,32,Silver,Manufacturing
+CUST0112,Paul Appiah,Ashanti,Organic Search,2022-09-10,540,None,Manufacturing
+CUST0113,Paul Owusu,Northern,Email Campaign,2023-05-28,115,Gold,Logistics
+CUST0114,Ama Osei,Greater Accra,Partner,2023-05-11,42,Bronze,Hospitality
+CUST0115,Akua Kumi,Northern,Organic Search,2023-07-31,186,Silver,Construction
+CUST0116,Sarah Ofori,Upper West,Organic Search,2022-07-08,183,Bronze,Hospitality
+CUST0117,David Kumi,Bono,Trade Show,2022-10-23,180,Gold,Mining
+CUST0118,Ama Mensimah,Upper East,Referral,2023-08-10,283,Silver,Healthcare
+CUST0119,Henry Mensah,Upper East,Partner,2022-10-28,34,Silver,Construction
+CUST0120,Joseph Agyapong,Northern,Partner,2022-06-14,105,Gold,Logistics
+CUST0121,Michael Mensimah,Upper West,Online Ads,2023-11-25,132,Bronze,Mining
+CUST0122,Ama Appiah,Volta,Direct Sales,2024-02-12,79,None,Mining
+CUST0123,Joseph Acheampong,Upper East,Partner,2021-02-05,178,None,Manufacturing
+CUST0124,John Appiah,Volta,Organic Search,2022-05-14,84,Silver,Agriculture
+CUST0125,Paul Quaye,Upper East,Email Campaign,2023-12-24,110,Silver,Logistics
+CUST0126,Sarah Osei,Northern,Organic Search,2023-07-19,59,None,Agriculture
+CUST0127,John Mensimah,Central,Online Ads,2022-01-30,32,Gold,Logistics
+CUST0128,Akua Ofori,Central,Referral,2023-09-19,43,Silver,Agriculture
+CUST0129,Paul Nyarko,Ashanti,Partner,2022-02-02,168,Silver,Agriculture
+CUST0130,Esi Quaye,Western,Trade Show,2021-01-29,137,None,Construction
+CUST0131,Michael Owusu,Greater Accra,Email Campaign,2022-08-22,319,Bronze,Construction
+CUST0132,Joseph Antiri,Greater Accra,Email Campaign,2022-08-06,145,Silver,Hospitality
+CUST0133,Joseph Asante,Northern,Referral,2021-04-16,432,Silver,Agriculture
+CUST0134,Joseph Antiri,Ashanti,Direct Sales,2023-10-05,127,Gold,Manufacturing
+CUST0135,Paul Owusu,Western,Referral,2024-02-27,28,None,Agriculture
+CUST0136,Ama Appiah,Ashanti,Email Campaign,2023-05-03,148,Gold,Mining
+CUST0137,Linda Adjei,Upper East,Direct Sales,2022-09-01,561,Silver,Healthcare
+CUST0138,John Owusu,Bono,Organic Search,2021-07-23,195,Silver,Mining
+CUST0139,Kojo Mensimah,Ashanti,Referral,2022-05-07,59,None,Construction
+CUST0140,Rebecca Boateng,Western,Online Ads,2023-04-17,95,Bronze,Hospitality
+CUST0141,Daniel Acheampong,Eastern,Online Ads,2022-04-20,50,Bronze,Agriculture
+CUST0142,John Asante,Ashanti,Organic Search,2022-04-24,130,Gold,Agriculture
+CUST0143,Paul Agyapong,Volta,Online Ads,2024-01-21,353,None,Mining
+CUST0144,Yaw Mensimah,Western,Online Ads,2021-05-03,588,Bronze,Construction
+CUST0145,John Nyarko,Upper East,Online Ads,2023-08-18,51,Silver,Agriculture
+CUST0146,Linda Mensimah,Upper West,Email Campaign,2023-10-09,153,None,Hospitality
+CUST0147,Ama Owusu,Volta,Organic Search,2022-10-23,85,Bronze,Agriculture
+CUST0148,Kwame Boateng,Central,Organic Search,2024-03-24,66,Gold,Retail
+CUST0149,Michael Owusu,Western,Direct Sales,2023-11-29,285,Gold,Hospitality
+CUST0150,Michael Ofori,Bono,Direct Sales,2024-07-24,54,Gold,Hospitality
+CUST0151,Ama Acheampong,Northern,Direct Sales,2022-11-14,477,Bronze,Logistics
+CUST0152,Akua Ofori,Northern,Direct Sales,2024-11-21,225,Silver,Hospitality
+CUST0153,John Adjei,Upper West,Online Ads,2023-07-21,108,Silver,Manufacturing
+CUST0154,Henry Mensimah,Northern,Online Ads,2023-04-08,86,None,Retail
+CUST0155,Rebecca Asante,Volta,Online Ads,2022-01-20,178,Bronze,Logistics
+CUST0156,Daniel Acheampong,Upper East,Partner,2021-04-16,165,None,Mining
+CUST0157,Michael Badu,Eastern,Direct Sales,2024-12-01,33,Silver,Hospitality
+CUST0158,Akua Mensah,Bono,Partner,2022-05-06,33,Silver,Construction
+CUST0159,John Mensah,Upper West,Direct Sales,2021-07-10,205,Silver,Mining
+CUST0160,Akua Asante,Ashanti,Organic Search,2021-11-12,330,None,Hospitality
+CUST0161,John Mensimah,Volta,Partner,2023-09-16,29,Bronze,Hospitality
+CUST0162,Esi Asante,Upper West,Referral,2023-02-25,113,Silver,Mining
+CUST0163,Daniel Badu,Ashanti,Trade Show,2023-04-30,63,Gold,Logistics
+CUST0164,Linda Mensimah,Greater Accra,Trade Show,2022-09-04,174,Gold,Hospitality
+CUST0165,Yaw Asante,Upper West,Direct Sales,2022-12-08,355,Bronze,Logistics
+CUST0166,Rebecca Adjei,Upper East,Trade Show,2022-01-22,103,Bronze,Mining
+CUST0167,Paul Adjei,Central,Partner,2023-04-22,126,Bronze,Retail
+CUST0168,Henry Acheampong,Volta,Direct Sales,2024-09-21,107,None,Construction
+CUST0169,Joseph Owusu,Western,Email Campaign,2024-04-23,334,Gold,Logistics
+CUST0170,Akua Asante,Ashanti,Email Campaign,2023-07-25,150,Gold,Retail
+CUST0171,Yaw Kumi,Western,Online Ads,2023-08-20,247,None,Agriculture
+CUST0172,Henry Adjei,Ashanti,Partner,2022-11-04,141,Gold,Healthcare
+CUST0173,Henry Acheampong,Upper West,Online Ads,2024-06-18,108,None,Manufacturing
+CUST0174,Esi Nyarko,Central,Organic Search,2021-07-05,25,Gold,Healthcare
+CUST0175,Akua Antiri,Upper East,Referral,2024-11-22,133,Silver,Agriculture
+CUST0176,Kwame Owusu,Northern,Partner,2021-04-25,81,Gold,Agriculture
+CUST0177,Grace Quaye,Volta,Referral,2022-05-16,134,Bronze,Healthcare
+CUST0178,Paul Ofori,Western,Referral,2021-06-11,142,None,Healthcare
+CUST0179,Daniel Appiah,Upper East,Email Campaign,2021-10-21,349,Bronze,Mining
+CUST0180,David Mensimah,Upper East,Trade Show,2024-09-27,95,Gold,Retail
+CUST0181,David Nyarko,Upper West,Referral,2021-06-01,143,None,Hospitality
+CUST0182,Grace Nyarko,Volta,Organic Search,2022-05-28,58,Gold,Hospitality
+CUST0183,John Agyapong,Volta,Partner,2023-09-17,68,Bronze,Manufacturing
+CUST0184,Esi Adjei,Bono,Trade Show,2024-03-23,165,Gold,Agriculture
+CUST0185,John Mensah,Volta,Trade Show,2021-01-17,169,None,Retail
+CUST0186,Daniel Acheampong,Eastern,Partner,2022-04-17,78,None,Logistics
+CUST0187,Esi Agyapong,Bono,Trade Show,2024-10-20,297,Gold,Construction
+CUST0188,Akua Owusu,Eastern,Partner,2023-06-22,27,None,Retail
+CUST0189,Paul Quaye,Western,Online Ads,2022-08-28,119,Bronze,Logistics
+CUST0190,Sarah Ofori,Central,Referral,2024-01-10,347,Bronze,Logistics
+CUST0191,Linda Mensimah,Western,Trade Show,2023-09-14,88,Silver,Agriculture
+CUST0192,Henry Antiri,Upper East,Online Ads,2021-10-16,89,Bronze,Mining
+CUST0193,Linda Quaye,Ashanti,Partner,2023-03-20,27,Silver,Retail
+CUST0194,Michael Antiri,Upper East,Trade Show,2024-10-09,32,Bronze,Agriculture
+CUST0195,Paul Adjei,Northern,Online Ads,2024-10-14,547,None,Mining
+CUST0196,Joseph Mensah,Bono,Email Campaign,2022-11-03,59,None,Mining
+CUST0197,Ama Asante,Eastern,Organic Search,2023-04-17,84,Silver,Manufacturing
+CUST0198,Yaw Owusu,Greater Accra,Trade Show,2023-10-06,44,Bronze,Manufacturing
+CUST0199,Akua Appiah,Upper West,Referral,2023-03-07,45,Silver,Hospitality
+CUST0200,Grace Kumi,Bono,Organic Search,2021-11-13,178,None,Healthcare
